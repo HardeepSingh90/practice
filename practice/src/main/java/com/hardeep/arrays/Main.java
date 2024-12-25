@@ -13,7 +13,9 @@ public class Main {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hardeep");
+		String str = "Hhardep";
+		System.out.println(" is duplicate : "+DuplicateChar.isDuplicateStringCaseSensitiveASCII(str));
+		System.out.println(" is duplicate : "+DuplicateChar.isDuplicateStringCaseInsensitiveASCII(str));
 
 	}
 
