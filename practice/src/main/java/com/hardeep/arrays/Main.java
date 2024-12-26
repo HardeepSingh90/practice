@@ -17,6 +17,7 @@ public class Main {
 		System.out.println(" is duplicate : "+DuplicateChar.isDuplicateStringCaseSensitiveASCII(str));
 		System.out.println(" is duplicate : "+DuplicateChar.isDuplicateStringCaseInsensitiveASCII(str));
 
+                System.out.println("test");
 	}
 
 }
